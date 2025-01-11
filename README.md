@@ -77,9 +77,10 @@ Me chamo Heric Douglas Gonçalves de Paula, tenho 22 anos e sou natural de Brasi
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
-          
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+    />
+    
+
 <img 
     align="left" 
     alt="PHP" 
@@ -118,7 +119,8 @@ Me chamo Heric Douglas Gonçalves de Paula, tenho 22 anos e sou natural de Brasi
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <br/>
 <br/>
 
